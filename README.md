@@ -54,6 +54,7 @@ m = length of secondary winding (= 10 mm)
 
 
 ## Output waveforms:
+<img width="920" height="737" alt="lvdt" src="https://github.com/user-attachments/assets/c2b9cfae-1efb-4ceb-a462-835bedde75e8" />
 
 
 
@@ -61,6 +62,6 @@ m = length of secondary winding (= 10 mm)
 
 
 ## Result:
-
+Thus the Capacitance of an unknown Capacitor using Schering Bridge has been determined and measured.
 
 
