@@ -62,6 +62,6 @@ m = length of secondary winding (= 10 mm)
 
 
 ## Result:
-Thus the Capacitance of an unknown Capacitor using Schering Bridge has been determined and measured.
+Thus the measurement of Displacement using LVDT has been measured.
 
 
