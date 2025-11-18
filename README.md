@@ -1,4 +1,4 @@
-<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/2247fee1-3b78-426f-bed6-b4841eb640f3" /># Aim: 
+# Aim: 
 Measurement of Displacement using LVDT
 ## Objective:-
 Study the relation between core displacement and output of LVDT
